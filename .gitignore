@@ -1,0 +1,4 @@
+.venv_flask
+.env
+__pycache__
+
